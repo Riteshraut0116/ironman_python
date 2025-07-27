@@ -14,7 +14,7 @@ After running the script, a window will appear and you will see the drawing of I
 
 Once the script is finished, your Iron Man Drawing is ready! 🎉
 
-![Final Output](ganpati_python_file/pythonoutput.png)
+![Final Output](ironman_draw_files/pythonoutput.png)
 
 ---
 
